@@ -1,4 +1,4 @@
 canal_download
 ==============
 
-canal download project
+canal project : https://github.com/alibaba/canal
